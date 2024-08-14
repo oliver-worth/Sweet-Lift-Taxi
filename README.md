@@ -1,5 +1,5 @@
 # Sweet Lift Taxi Demand Prediction
-
+![Taxi](taxi.png)
 ## Project Overview
 In this project, I developed a predictive model to forecast the number of taxi orders for Sweet Lift Taxi Company during the next hour. The objective was to ensure that the model's Root Mean Squared Error (RMSE) on the test set did not exceed 48. Achieving this goal would allow the company to efficiently allocate resources and attract more drivers during peak hours.
 
